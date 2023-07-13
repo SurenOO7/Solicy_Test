@@ -1,0 +1,12 @@
+POST http://localhost:3000/buyProduct
+content-type: application/json
+
+{
+    "id": 5,
+    "address": "Fugiat veniam voluptatibus harum."
+}
+
+###
+
+GET http://localhost:3000/catalog/2
+
